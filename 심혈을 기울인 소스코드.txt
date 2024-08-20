@@ -8,4 +8,6 @@ using namespace std;
 void main()
 {
 cout << "hello world" << endl;
+cout << "helloKorea" << endl;
+메롱메롱
 }
